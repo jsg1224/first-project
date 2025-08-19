@@ -1,1 +1,1 @@
-print("Hello world")
+print("두번째 커밋")
